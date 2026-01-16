@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/colors_app.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/models/hadith_model.dart';
+import 'package:islame_app2/core/colors_app.dart';
+import 'package:islame_app2/core/style_app.dart';
+import 'package:islame_app2/models/hadith_model.dart';
 
 class HadithDetails extends StatelessWidget {
   static const String routeName= "HadithDetails";

@@ -1,9 +1,10 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/models/hadith_model.dart';
-import 'package:islame1_app/screen/hadith_details/hadith_details.dart';
+import 'package:islame_app2/core/style_app.dart';
+import 'package:islame_app2/models/hadith_model.dart';
+import 'package:islame_app2/screen/hadith_details/hadith_details.dart';
+
 
 
 class HadethTap extends StatefulWidget {
