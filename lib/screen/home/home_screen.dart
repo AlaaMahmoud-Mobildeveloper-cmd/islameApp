@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/colors_app.dart';
-import 'package:islame1_app/screen/home/taps/hadeth_tap.dart';
-import 'package:islame1_app/screen/home/taps/qrane_tap.dart';
-import 'package:islame1_app/screen/home/taps/riduo_tap.dart';
-import 'package:islame1_app/screen/home/taps/sebha_tap.dart';
-import 'package:islame1_app/screen/home/taps/tim_tap.dart';
+import 'package:islame_app2/core/colors_app.dart';
+import 'package:islame_app2/screen/home/taps/hadeth_tap.dart';
+import 'package:islame_app2/screen/home/taps/qrane_tap.dart';
+import 'package:islame_app2/screen/home/taps/riduo_tap.dart';
+import 'package:islame_app2/screen/home/taps/sebha_tap.dart';
+import 'package:islame_app2/screen/home/taps/tim_tap.dart';
 
 class HomeScreen extends StatefulWidget {
   static const String routeName="Home";

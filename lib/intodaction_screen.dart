@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:introduction_screen/introduction_screen.dart';
-import 'package:islame1_app/core/cach_hlper.dart';
-import 'package:islame1_app/core/colors_app.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/screen/home/home_screen.dart';
+import 'package:islame_app2/core/cach_hlper.dart';
+import 'package:islame_app2/core/colors_app.dart';
+import 'package:islame_app2/core/style_app.dart';
+import 'package:islame_app2/screen/home/home_screen.dart';
 
 class IntroductionScreens extends StatelessWidget {
   static const String routeName="IntroductionScreens";

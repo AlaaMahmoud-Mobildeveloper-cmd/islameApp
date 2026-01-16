@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/cach_hlper.dart';
-import 'package:islame1_app/screen/hadith_details/hadith_details.dart';
-import 'package:islame1_app/screen/home/home_screen.dart';
-import 'package:islame1_app/intodaction_screen.dart';
+import 'package:islame_app2/core/cach_hlper.dart';
+import 'package:islame_app2/screen/hadith_details/hadith_details.dart';
+import 'package:islame_app2/screen/home/home_screen.dart';
+import 'package:islame_app2/intodaction_screen.dart';
 
-import 'package:islame1_app/screen/sura_details/sura_details.dart';
+import 'package:islame_app2/screen/sura_details/sura_details.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();

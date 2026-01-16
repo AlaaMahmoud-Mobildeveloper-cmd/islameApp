@@ -1,7 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/colors_app.dart';
-import 'package:islame1_app/core/style_app.dart';
+import 'package:islame_app2/core/colors_app.dart';
+import 'package:islame_app2/core/style_app.dart';
 
 class TimeItems extends StatelessWidget {
   TimeItems({super.key});
