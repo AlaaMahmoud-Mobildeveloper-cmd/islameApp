@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/cach_hlper.dart';
-import 'package:islame1_app/core/colors_app.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/models/sura_model.dart';
-import 'package:islame1_app/screen/home/taps/Widget/SuraItems.dart';
-import 'package:islame1_app/screen/home/taps/Widget/recently_item.dart';
-import 'package:islame1_app/screen/sura_details/sura_details.dart';
+import 'package:islame_app2/core/cach_hlper.dart';
+import 'package:islame_app2/core/colors_app.dart';
+import 'package:islame_app2/core/style_app.dart';
+import 'package:islame_app2/models/sura_model.dart';
+import 'package:islame_app2/screen/home/taps/Widget/SuraItems.dart';
+import 'package:islame_app2/screen/home/taps/Widget/recently_item.dart';
+import 'package:islame_app2/screen/sura_details/sura_details.dart';
 
 class QraneTap extends StatefulWidget {
  QraneTap({super.key});

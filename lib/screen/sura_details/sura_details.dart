@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:islame1_app/core/colors_app.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/models/sura_model.dart';
+import 'package:islame_app2/core/colors_app.dart';
+import 'package:islame_app2/core/style_app.dart';
+import 'package:islame_app2/models/sura_model.dart';
 
 class SuraDetails extends StatefulWidget {
   static const String routeName="SuraDetails";

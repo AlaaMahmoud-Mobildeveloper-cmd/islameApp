@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:islame1_app/core/colors_app.dart';
+import 'package:islame_app2/core/colors_app.dart';
 
 class AppStyle{
   static TextStyle titleStyle=GoogleFonts.lalezar(fontSize: 24,
