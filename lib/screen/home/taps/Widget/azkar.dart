@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/screen/home/taps/Widget/cardAzkar.dart';
+import 'package:islame_app2/core/style_app.dart';
+import 'package:islame_app2/screen/home/taps/Widget/cardAzkar.dart';
 
 class AzkarItm extends StatelessWidget {
   const AzkarItm({super.key});

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islame1_app/core/style_app.dart';
-import 'package:islame1_app/screen/home/taps/Widget/azkar.dart';
-import 'package:islame1_app/screen/home/taps/Widget/timeItmes.dart';
+import 'package:islame_app2/screen/home/taps/Widget/azkar.dart';
+import 'package:islame_app2/screen/home/taps/Widget/timeItmes.dart';
 
 class TimTap extends StatelessWidget {
   const TimTap({super.key});
